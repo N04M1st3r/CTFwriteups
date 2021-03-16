@@ -7,8 +7,8 @@ We can see that the encryption(e) is very small and also that c is relatively ve
 Because these two things we can try and take the cube root (root 3) of our encrypted message (ct)
 
 So now that we know what to do lets write the code for it.
-I wrote the code in python using these gmpy2 and Crypto.Util.number
-(gmpy2 for the cube root and Crypto.Util.number to make the numbers bytes and from then to strings)
+I wrote the code in python using gmpy2 and pycrypto libraries 
+(gmpy2 for the cube root and pycrypto to make the numbers bytes and from then to strings)
 
 
 First of all lets import our libraries:
