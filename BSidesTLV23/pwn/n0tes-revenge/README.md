@@ -12,7 +12,7 @@
 
 **files**: *add links for the file here
 
-![challenge description image](/_images/chall_image.jpg)
+![challenge description image](_images/solved_image.jpg)
 
 **challenge link**: https://ctf23.bsidestlv.com/challenges#n0tes-revenge-33 (maybe not available by the time you are reading this)
 
