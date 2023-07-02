@@ -605,4 +605,4 @@ flag:
 > **BSidesTLV2023{0h-n0-null-ptr-derefs-ar3-a-pa1n}**
 
 images of the solve:
-![solve image screenshot](_images/solve_image.jpg)
+![solve image screenshot](_images/solved_image.jpg)
