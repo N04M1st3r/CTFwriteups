@@ -604,5 +604,5 @@ https://github.com/niklasb/libc-database
 flag: 
 > **BSidesTLV2023{0h-n0-null-ptr-derefs-ar3-a-pa1n}**
 
-images of the solve:
+images of the solve:  
 ![solve image screenshot](_images/solved_image.jpg)
